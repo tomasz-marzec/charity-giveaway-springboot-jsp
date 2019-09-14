@@ -1,0 +1,15 @@
+### Files ###
+
+# Compiled class files
+.class
+
+# Log files
+*.log
+
+### Directories ###
+
+# Intellij IDEA directory
+.idea/
+
+# Java target directory
+target/
